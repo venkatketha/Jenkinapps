@@ -6,7 +6,7 @@ namespace calculator
     {
         public int Add(int x, int y )
         {
-            return x + y;
+            return x + y
         }
         public int Multliply(int x,int y)
         {
