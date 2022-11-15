@@ -10,7 +10,7 @@ namespace calculator
         }
         public int Multliply(int x,int y)
         {
-            return x+y;
+            return x * x;
         }
     }
 }
